@@ -25,7 +25,7 @@ module.exports = {
         "banner-image":
           "linear-gradient(0deg, rgba(16, 16, 16, 0.7), rgba(16, 16, 16, 0.7)), url('../assets/images/banner-image.jpg')",
         "booking-image":
-          "linear-gradient(0deg, rgba(16, 16, 16, 0.5), rgba(16, 16, 16, 0.5)), url('../assets/images/booking-image.png')",
+          "linear-gradient(0deg, rgba(16, 16, 16, 0.8), rgba(16, 16, 16, 0.8)), url('../assets/images/booking-image.jpg')",
       },
       gridTemplateColumns: {
         footer: "3fr repeat(3, 2fr)",
